@@ -2,7 +2,7 @@
 # $\textbf{andtvban:\ {\color{green}Matrix\ {\color{white},\ {\color{indigo}Nexus\ {\color{white},\ {\color{dodgerblue}Omega}}}}}}$
 
 ## Fuente: 
-https://andtvban.github.io/tvban/
+https://andtvbox.github.io/andtvban/
 
 # MATRIX
 ![img](https://i.imgur.com/PfZUhyc.png)
